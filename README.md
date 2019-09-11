@@ -14,6 +14,7 @@
 
     * 第三方框架笔记
       * [ARouter](./Android/framework/ARouter.md)
+    * [事件分发机制](./Android/view/event.md)
 
 * ### Android 疑难杂症
 
