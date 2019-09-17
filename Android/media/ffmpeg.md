@@ -28,6 +28,10 @@
 
 ### 2.ffmpeg 处理流程
 
+![图片](https://github.com/chenxiaowu018/Android-and-Java-Note/blob/master/image/ffmpeg_process.PNG)
+
+### 作用
+
 ### 3.ffnpeg 基本信息查询命令
 
 | -version  | 显示版本         | -format    | 显示可用格式       |
