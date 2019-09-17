@@ -25,5 +25,5 @@ Activity -> Window -> DecorView ->ViewGroup ->View
 + ViewGroup的事件分发
 + View的事件分发
 
-![图片](https://github.com/chenxiaowu018/Android-and-Java-Note/blob/master/image/java_annotation.png)
+![图片](https://github.com/chenxiaowu018/Android-and-Java-Note/blob/master/image/event.png)
 
