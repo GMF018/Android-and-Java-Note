@@ -14,6 +14,8 @@
 
     * 第三方框架源码
       * [ARouter](./Android/framework/ARouter.md)
+    * [事件分发机制](./Android/view/event.md)
+    * [音视频](./Android/media/ffmpeg.md)
 
 * #### Android 疑难杂症
 
