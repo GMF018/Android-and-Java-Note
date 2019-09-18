@@ -2,28 +2,31 @@
 
 ## 介绍
 
-记录Android与java相关知识的总结与归纳,还有相关的面试，会不定期的更新与归纳。
+#### Android，java，面试，英语，等相关知识的总结与归纳。
 
-## 目录
+### 目录
 
-* ### java 基础
+* #### java 基础
 
-* ### Android 基础
+* #### Android 基础
 
-* ### Android进阶
+* #### Android进阶
 
-    * 第三方框架笔记
+    * 第三方框架源码
       * [ARouter](./Android/framework/ARouter.md)
 
-* ### Android 疑难杂症
+* #### Android 疑难杂症
 
-* ### 面试
+* #### 面试
     * [java面试总结](./interview/java/java面试题.md)
-    * [Android面试总结](./interview/android/android面试题.md)
-    
-* ### 英语笔记
 
-    
+    * [Android面试总结](./interview/android/android面试题.md)
+
+    * [非技术性问题&HR问题汇总](./interview/hr/hr.md)
+
+* #### 英语笔记
+
+  ​    
 
 -----
 
