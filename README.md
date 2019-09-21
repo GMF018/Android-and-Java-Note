@@ -21,10 +21,16 @@
 
 * #### 面试
     * [java面试总结](./interview/java/java面试题.md)
+    
+* [Android面试总结](./interview/android/android面试题.md)
+    
+* [非技术性问题&HR问题汇总](./interview/hr/hr.md)
+    
+* #### 算法
 
-    * [Android面试总结](./interview/android/android面试题.md)
+    * [位运算符](./arithmetic/1.md)
 
-    * [非技术性问题&HR问题汇总](./interview/hr/hr.md)
+    
 
 * #### 英语笔记
 
