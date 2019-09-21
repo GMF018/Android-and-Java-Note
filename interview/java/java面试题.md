@@ -1,4 +1,4 @@
-### java面试题汇总
+### data structurejava面试题汇总
 
 #### 一、java基础面试
 
@@ -67,9 +67,9 @@
 - 多线程断点续传原理
 - 断点续传的实现
 ### 四、数据结构
-  - 常用数据结构简介
+  - [常用数据结构简介](./dataStructrue/1.md)
   - 并发集合了解哪些？
-  - 列举java的集合以及集合之间的继承关系
+  - 列举java的集合以及集合之  间的继承关系
   - 集合类以及集合框架
   - 容器类介绍以及之间的区别（容器类估计很多人没听这个词，Java容器主要可以划分为4个部分：List列表、Set集合、Map映射、工具类（Iterator迭代器、Enumeration枚举类、Arrays和Collections），具体的可以看看这篇博文 [Java容器类](http://alexyyek.github.io/2015/04/06/Collection/)）
   - List,Set,Map的区别
