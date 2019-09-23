@@ -14,7 +14,7 @@
 
     * 第三方框架源码
       * [ARouter](./Android/framework/ARouter.md)
-    * 事件分发机制](./Android/view/event.md)
+    * [事件分发机制](./Android/view/event.md)
     * [音视频](./Android/media/ffmpeg.md)
 
 * #### Android 疑难杂症
@@ -22,16 +22,17 @@
 * #### 面试
     * [java面试总结](./interview/java/java面试题.md)
     
-* [Android面试总结](./interview/android/android面试题.md)
-  
-* [非技术性问题&HR问题汇总](./interview/hr/hr.md)
+	* [Android面试总结](./interview/android/android面试题.md)
+    
+	* [非技术性问题&HR问题汇总](./interview/hr/hr.md)
   
 * #### 算法
 
     * [位运算符](./arithmetic/1.md)
-* [时间复杂度和空间复杂度]()
-    * [常用的排序算法](./arithmetic/sort.md)
-
+	* [时间复杂度和空间复杂度]()
+    
+	* [常用的排序算法](./arithmetic/sort.md)
+    
 * #### 英语笔记
 
   ​    
