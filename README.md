@@ -20,19 +20,23 @@
 * #### Android 疑难杂症
 
 * #### 面试
-    * [java面试总结](./interview/java/java面试题.md)
-    
-	* [Android面试总结](./interview/android/android面试题.md)
-    
+  
+    * [关键点](./interview/important.md)
+	* [java面试总结](./interview/java/java面试题.md)
+    * [Android面试总结](./interview/android/android面试题.md)
 	* [非技术性问题&HR问题汇总](./interview/hr/hr.md)
   
-* #### 算法
+* #### 数据结构与算法
 
-    * [位运算符](./arithmetic/1.md)
+    * [位运算符](./DSAA/1.md)
 	* [时间复杂度和空间复杂度]()
-    
-	* [常用的排序算法](./arithmetic/sort.md)
-    
+    * [数据结构](./DSAA/dataStrutrue.md)
+	* [算法](./DSAA/algorithm.md)
+	
+* #### JVM
+
+    * [MAT 内存分析工具](http://www.lightskystreet.com/2015/09/01/mat_usage/)
+
 * #### 英语笔记
 
   ​    
