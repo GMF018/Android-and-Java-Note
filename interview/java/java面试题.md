@@ -23,9 +23,9 @@
 - [说说你对依赖注入的理解](./15.md)
 - String为什么要设计成不可变的？
 
-
 #### 三、线程、多线程和线程池
 
+- [jmm](./24.md)
 - [开启线程的三种方式？](./16.md)
 - [线程和进程的区别？](./18.md)
 - [run()和start()方法区别](./19.md)
@@ -45,7 +45,7 @@
 - 谈谈对Synchronized关键字，类锁，方法锁，重入锁的理解
 - static synchronized 方法的多线程访问和作用
 - 同一个类里面两个synchronized方法，两个线程同时访问的问题
-- [volatile的原理](./17.md)
+- [volatile的原理](./volatile.md)
 - 谈谈volatile关键字的用法
 - 谈谈volatile关键字的作用
 - 谈谈NIO的理解
