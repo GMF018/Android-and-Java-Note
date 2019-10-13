@@ -28,7 +28,7 @@
 
 ### 2.ffmpeg 处理流程
 
-![图片](https://github.com/chenxiaowu018/Android-and-Java-Note/blob/master/image/ffmpeg_process.PNG)
+![图片](../../image/ffmpeg_process.PNG)
 
 ### 作用
 

@@ -4,7 +4,7 @@
 
 ### 结构图
 
-![图片](https://github.com/chenxiaowu018/Android-and-Java-Note/blob/master/image/JVMStructure.jpg)
+![图片](../image/JVMStructure.jpg)
 
 图片来自网路，侵权联系删除
 
