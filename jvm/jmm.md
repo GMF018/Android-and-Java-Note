@@ -1,6 +1,6 @@
 ## JMM
 
-![](C:/Users/Administrator/Desktop/JMM%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.png)
+![](../image/JMM%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.png)
 
 概述：java 内存模型
 

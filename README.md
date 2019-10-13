@@ -37,6 +37,9 @@
 
     * [MAT 内存分析工具](http://www.lightskystreet.com/2015/09/01/mat_usage/)
     * [JVM结构](./jvm/structure.md)
+    * [JMM](./jmm.md)
+
+* #### java 并发系列 
 
 * #### 英语笔记
 
