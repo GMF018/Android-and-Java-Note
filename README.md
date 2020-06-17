@@ -1,4 +1,4 @@
-## Android java note
+## 知识地图
 
 ## 介绍
 
@@ -41,7 +41,9 @@
 
 * #### java 并发系列 
 
-* #### 英语笔记
+* #### Java后端
+
+    * [Redis](./backend/redis.md)
 
 * #### [学习路径](./learnPath.md)
 
